@@ -1,0 +1,4 @@
+﻿  multithreading.cpp
+C:\Users\SSI\source\repos\multithreading\multithreading\multithreading.cpp(69,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+C:\Users\SSI\source\repos\multithreading\multithreading\multithreading.cpp(69,16): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'void *'
+  multithreading.vcxproj -> C:\Users\SSI\source\repos\multithreading\x64\Debug\multithreading.exe

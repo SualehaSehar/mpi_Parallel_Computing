@@ -1,0 +1,3 @@
+﻿  mpiMultiply.cpp
+C:\Users\SSI\source\repos\mpiMultiply\mpiMultiply\mpiMultiply.cpp(12,15): warning C4101: 'k': unreferenced local variable
+  mpiMultiply.vcxproj -> C:\Users\SSI\source\repos\mpiMultiply\x64\Debug\mpiMultiply.exe

@@ -1,0 +1,3 @@
+﻿  mpiGrid.cpp
+C:\Users\SSI\source\repos\mpiGrid\mpiGrid\mpiGrid.cpp(67,22): warning C4101: 'rankeven': unreferenced local variable
+  mpiGrid.vcxproj -> C:\Users\SSI\source\repos\mpiGrid\x64\Debug\mpiGrid.exe
